@@ -1,0 +1,78 @@
+.cont2{
+		position: fixed;
+}
+
+.yt{
+	padding: 0;
+    border: none;
+    font: inherit;
+    color: inherit;
+    background-color: transparent;
+    cursor: pointer;
+    font-size: 24pt;
+	height: 40px;
+	width: 40px;
+	color: #FFFFFF;
+	osition: absolute;
+	border-radius: 50%
+}
+.yt:hover{
+	font-size: 28pt;
+	color:#FFFFFF;
+	transition-duration:0.5s
+}
+.sc{
+	padding: 0;
+    border: none;
+    font: inherit;
+    color: inherit;
+    background-color: transparent;
+    cursor: pointer;
+    font-size: 20pt;
+	height: 40px;
+	width: 40px;
+	color: #FFFFFF;
+	osition: absolute;
+	border-radius: 50%
+}
+.sc:hover{
+	font-size: 24pt;
+	color:#FFFFFF;
+	transition-duration:0.5s
+}
+.ig{
+	padding: 0;
+    border: none;
+    font: inherit;
+    color: inherit;
+    background-color: transparent;
+    cursor: pointer;
+    font-size: 26pt;
+	height: 40px;
+	width: 40px;
+	color: #FFFFFF;
+	osition: absolute;
+	border-radius: 50%
+}
+.ig:hover{
+	font-size: 28pt;
+	color:#FFFFFF;
+	transition-duration:0.5s
+}
+.tg{
+	padding: 0;
+    border: none;
+    font: inherit;
+    color: inherit;
+    background-color: transparent;
+    cursor: pointer;
+    font-size: 26pt;
+	height: 40px;
+	width: 40px;
+	color: #FFFFFF;
+	border-radius: 50%;
+}
+.tg:hover{
+	font-size: 28pt;
+	color:#FFFFFF;
+	transition-duration:0.5s

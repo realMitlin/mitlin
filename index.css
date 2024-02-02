@@ -1,0 +1,100 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body {
+  
+  background: url('video.png');
+  background-size: cover;
+  background-color:black;
+}
+
+.bgvideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -9999;
+  opacity: 0.2;
+}
+html, body{
+	width: 100%;
+	height: 100%;
+}
+.mitlin{
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 60pt;
+	font-family: Protest Revolution;
+	height: 100px;
+}
+.music1{
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 10pt;
+	font-family: Tenor Sans;
+	letter-spacing: 56px;
+	padding-left: 56px;
+}
+
+.maintext{
+    display: flex;
+    width:594px;
+	height: 100px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    padding-top: 45px;
+}
+
+.about{
+	color: #FFFFFF;
+	font-size: 60pt;
+	cursor:pointer;
+	text-decoration: none;
+	text-align: center;
+	font-family: Tenor Sans;
+}
+.about:hover{
+	color: #708090;
+	font-size: 62pt;
+	transition-duration:0.150s
+}
+.music{
+    color: #FFFFFF;
+    font-size: 60pt;
+	cursor:pointer;
+	text-decoration: none;
+	text-align: center;
+	padding-left: 20px;
+	font-family: Tenor Sans;
+}
+.music:hover{
+	color: #708090;
+	font-size: 62pt;
+	transition-duration:0.150s
+}
+.leyer1{
+	width: 100%;
+	height: 30vh;
+}
+.cont2{
+	
+    display: flex;
+    width: 160px;
+	height: 40px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    padding-top:150px;
+}
+.cont3{
+
+    
+}
