@@ -19,7 +19,7 @@ body {
   width: auto;
   height: auto;
   z-index: -9999;
-  opacity: 0.4;
+  opacity: 1;
 }
 html, body{
 	width: 100%;
